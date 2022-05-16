@@ -3,7 +3,7 @@
 /**
  * comp_Arg - Check command in path
  *
- * @Arg_str: argument string.
+ * @Arg_str: Argument string.
  * @ct_output: output.
  *
  * Return: output;
