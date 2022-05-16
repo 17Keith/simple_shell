@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * main - start shell.
+ * main - Start Shell.
  *
  * Return: (0).
  */
