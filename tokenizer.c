@@ -3,7 +3,7 @@
 /**
  * tokenizer - Analyze arguments in tokens.
  *
- * @BUFF: bring arguments.
+ * @BUFF: Bring arguments.
  *
  * Return: Arg_str.
  */
