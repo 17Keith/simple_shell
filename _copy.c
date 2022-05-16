@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * _strcpy - Copies the string.
+ * _strcpy - Copies the String.
  *
  * @dest: Destiny.
  * @src: Source.
