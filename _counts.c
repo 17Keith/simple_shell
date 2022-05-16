@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * _strlen - Counts string chars.
+ * _strlen - counts string chars.
  *
  * @a: Variable to validate.
  *
