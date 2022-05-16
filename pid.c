@@ -3,10 +3,10 @@
 /**
  * _fork - Create a child process
  *
- * @Arg_str: argument string
- * @ct_output: output.
+ * @Arg_str: Argument String
+ * @ct_output: Output.
  *
- * Return: output.
+ * Return: Output.
  */
 
 int _fork(char **Arg_str, int ct_output)
